@@ -28,10 +28,10 @@
 
 
 #**
-def myFun(**xyz):
-    print(type(xyz))
-    print(xyz['x'])
-myFun(x=5,y=2,z=3)
+# def myFun(**xyz):
+#     print(type(xyz))
+#     print(xyz['x'])
+# myFun(x=5,y=2,z=3)
 
 
 
