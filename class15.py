@@ -40,13 +40,12 @@
 # os.chmod(fd,os.O_RDONLY)
 
 
-import os,stat,platform   #buil in library
-fd = os.chmod( "test.txt", stat.S_IWRITE)
+# import os,stat,platform   #buil in library
+# fd = os.chmod( "test.txt", stat.S_IWRITE)
+# f = open("test.txt",'w')
+# f.write("kumar")
 
-f = open("test.txt",'w')
-f.write("kumar")
-
-f.write("jjjj")
+# f.write("jjjj")
 
 
 # print(f.read(20))
