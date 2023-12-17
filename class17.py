@@ -80,32 +80,32 @@ inheritance  = parent properties inherited to child (single inhertiance , multil
 # print(a2.a)
 
 
-class Student:
-    name = ""
-    address = ""
-    classs = ""
+# class Student:
+#     name = ""
+#     address = ""
+#     classs = ""
 
-Student.classs = "5th"
-list = []
-for x in range(0,3):
-    s1 = Student()
-    s1.name = input("Enter Name")
-    list.append(s1)
-
-
-
-for y in list:
-    print(y.name)
+# Student.classs = "5th"
+# list = []
+# for x in range(0,3):
+#     s1 = Student()
+#     s1.name = input("Enter Name")
+#     list.append(s1)
 
 
 
-    s1 = Student()
+# for y in list:
+#     print(y.name)
 
 
 
-    s1= Student()
+#     s1 = Student()
 
-    
+
+
+#     s1= Student()
+
+
 
  
 
