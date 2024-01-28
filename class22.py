@@ -23,8 +23,9 @@ print(soup.prettify())
 # print(type(x))
 
 x = soup.find_all(class_='sis')
-x[0].id = "jaan maro"
-print(x[0].id)
+print(x)
+# x[0].id = "jaan maro"
+# print(x[0].id)
 
 
 
